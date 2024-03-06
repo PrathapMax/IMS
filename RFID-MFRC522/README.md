@@ -21,8 +21,8 @@ This project aims to interface an RFID MFRC522 reader with a Raspberry Pi to rea
    - 3.3v connects to Pin 1.
 
    Refer to the images provided in the `connections` directory for visual guidance:
-   - `RFID-Fritz.png`
-   - `RFID-GPIO-Connection.png`
+   ![RFID-Fritz](connections/RFID-Fritz.png)
+   ![RFID-GPIO-Connection](connections/RFID-GPIO-Connection.png)
 
 ## Running the Scripts
 
@@ -52,5 +52,3 @@ Follow the prompts provided by the scripts to write or read data from the RFID t
 - If you encounter any issues, refer to the troubleshooting section of the project documentation or seek help from the community.
 
 Enjoy exploring RFID capabilities with your Raspberry Pi! If you have any questions or feedback, feel free to reach out.
-
-*This project is provided as-is without warranty or support. Use it at your own risk.*
